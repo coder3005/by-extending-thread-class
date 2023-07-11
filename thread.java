@@ -22,7 +22,7 @@ class B
 {
     public static void main(String[] args) throws InterruptedException {
         A t=new A();
-        t.start();
+        t.start();  // TOTAL OUTPUT CAME IN 5 SECONDS
 
         for(int i=1;i<=5;i++)
         {
